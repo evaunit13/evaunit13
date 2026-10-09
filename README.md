@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="assets/finale.png" width="45%" alt="Finale" />
+    <img src="assets/finale.png" width="70%" alt="Finale" />
 </p>
